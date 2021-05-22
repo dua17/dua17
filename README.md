@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @dua17
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python and VScode
-- 💞️ I’m currently a student looking for any support/advice
+- 👋 Hi, I’m Du'a
+- I’m currently a student looking for any support/advice
+- Python, VScode, VB, Java
 - 📫 How to reach me: email- driaz1704@gmail.com, LinkedIn- Du'a Riaz, IG- dua.rz
 
 
