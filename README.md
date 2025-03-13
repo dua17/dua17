@@ -1,3 +1,3 @@
-#  hiya, i'm du'a!
+du'a!
 
 
